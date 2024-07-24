@@ -21,8 +21,8 @@
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccXxx1aoBai&show_icons=true&theme=transparent&line_height=27" height="240" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccXxx1aoBai&layout=compact&theme=tokyonight" height="240" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ccXxx1aoBai&show_icons=true&theme=transparent&line_height=27" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccXxx1aoBai&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
