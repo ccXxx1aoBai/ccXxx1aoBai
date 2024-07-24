@@ -1,16 +1,6 @@
 ## Hi there 👋 :blush:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccXxx1aoBai&show_icons=true&theme=transparent&line_height=27" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccXxx1aoBai&layout=compact&theme=tokyonight" width="35%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ccXxx1aoBai&theme=dracula" />
-</p>
-
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
@@ -28,7 +18,18 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ccXxx1aoBai&theme=redical">
+<h2 align="center">Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ccXxx1aoBai&show_icons=true&theme=transparent&line_height=27" height="240" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccXxx1aoBai&layout=compact&theme=tokyonight" height="240" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccXxx1aoBai&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=ccXxx1aoBai&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
 
