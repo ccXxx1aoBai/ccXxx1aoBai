@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Nodejs-gray?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-React-gray?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-Flutter-gray?style=flat-square&logo=flutter&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-Java-gray?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-Java-gray?style=flat-square&logo=openjdk"/>
   <img src="https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=redis"/>
   <img src="https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Spring-gray?style=flat-square&logo=spring"/>
